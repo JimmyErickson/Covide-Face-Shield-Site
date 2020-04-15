@@ -25,7 +25,6 @@ body, html {
 
   .textSection {
     display: block;
-    height: 100%;
     margin: 0em auto;
     font: 400 15px/1.8 "Lato", sans-serif;
     color: black;
